@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Casmack</string>
+    <string name="send">Envoyer</string>
+    <string name="type_to_compose_text_enter_to_send">Saisissez votre message</string>
+    <string name="connection">Connexion</string>
+    <string name="user">Utilisateur</string>
+    <string name="domain">Domaine</string>
+    <string name="resource">Ressource</string>
+    <string name="password">Mot de passe</string>
+    <string name="chat">Discution</string>
+    <string name="contact">Liste de contact</string>
+    <string name="connection_in_progress">Connexion en cours</string>
+</resources>
